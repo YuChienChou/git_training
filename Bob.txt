@@ -1,1 +1,2 @@
-Hi I'm Bob, I'm a new added file.
+Hi! I'm Bob, I'm a new added file.
+And I'm new here.
